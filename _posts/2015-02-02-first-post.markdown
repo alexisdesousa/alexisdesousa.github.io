@@ -7,3 +7,5 @@ categories: test
 
 This is my first post. 
 
+Only the first paragraph should show up on the front page.
+
