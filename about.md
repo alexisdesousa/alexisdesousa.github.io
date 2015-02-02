@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Alexis DeSousa is a programmer, writer and reader. She graduated from Arcadia University in 2009 with a BS in Computer Science and in 2011 received an MS in Software Engineering from Drexel University. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+This site is dedicated to her musings and writings.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
