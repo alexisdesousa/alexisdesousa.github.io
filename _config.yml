@@ -9,6 +9,8 @@ twitter_username: alexisleno
 github_username:  alexisdesousa
 facebook_username: alexis.b.desousa
 banner: "/images/web_banner.png"
+paginate: 5
+
 
 # Build settings
 markdown: kramdown
