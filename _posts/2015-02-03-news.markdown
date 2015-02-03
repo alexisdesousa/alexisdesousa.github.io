@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "My First Post"
+date: 2015-02-03 16:40:00 
+categories: news
+---
+
+Well, I finally set up my own website again. Previously, I did some book reviews on my old blog over at <a href="https://koshermuffin.wordpress.com/" target="_blank">wordpress</a>. I haven't done any reviews since then, but I thought since I've been reading so much that I would start doing reviews again!
+
+<a href="www.goodreads.com" target="_blank">Goodreads</a> has a Reading Challenge every year where you can put in the number of books that you want to read for the year and it gives you updates on your current progress. Last year, I read about 50 books. This year, my aim is 75, but I'm far surpassing that. 
+
+So, since I am off on the reading train, doing reviews seems like a natural next step. I haven't been doing much in the way of writing lately, but hopefully something like this will help me step back into it.  
+
