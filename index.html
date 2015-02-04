@@ -16,7 +16,7 @@ layout: default
           
         </h2>
         {{ post.excerpt }}	
-        <a href="{{ post.url | prepend: site.baseurl }}">read more...</a>
+	<div style="text-align:right;"><a href="{{ post.url | prepend: site.baseurl }}">read more...</a></div>
           
       </li>
     {% endfor %}
