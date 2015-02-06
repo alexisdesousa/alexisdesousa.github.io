@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <div class="post">
 
   <header class="post-header">
@@ -11,6 +12,17 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
-  <span class="categories"> categories: {{ page.categories }} </span>
+  
+  {% if page.categories %}
+  	<span id="categories" class="categories"> 
+		categories: {% for category in page.categories %} {{ category }}, {% endfor %}</span>
+  {% endif %}
+  
+  <script>
+      /* remove trailing comma in the categories section */
+      document.getElementById ("categories").innerHTML = document.getElementById ("categories").innerHTML.substring (0, document.getElementById ("categories").innerHTML.length - 2)
+      
+  </script>
+  
   <br/><br/><a href="/index.html"><< back</a>
 </div>
