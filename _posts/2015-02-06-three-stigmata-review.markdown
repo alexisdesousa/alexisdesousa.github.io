@@ -19,9 +19,9 @@ categories: book-reviews, philip-k-dick
 
 <br/><br/>
 
-The Three Stigmata of Palmer Eldritch is set in the future (2016...or alternate reality??) and humans have already colonated some moons in the universe. Palmer Eldritch disappears for 10 years to another solar system with similar humanoid aliens and returns bent on changing (or controlling?) the humans of our star system.
+The Three Stigmata of Palmer Eldritch is set in the future (2016...or alternate reality??) and humans have already colonized some moons in the universe. Palmer Eldritch disappears for 10 years to another solar system with similar humanoid aliens and returns bent on changing (or controlling?) the humans of our star system.
 
-In this reality, humans are drafted to populate other planets, Mars for example, without much choice. Those who have been forced off planet are all homesick for Terra and take part in a dangerously addictive hallucinogenic drug called Can-D. In it, they can simulate an experience on earth, similar to LARPing. 
+In this reality, humans are drafted to populate other planets, Mars for example, without much choice. Those who have been forced off planet are all homesick for Terra and take part in a dangerously addictive hallucinogenic drug called Can-D. In it, they can simulate an experience on Earth, similar to LARPing. 
 
 When Palmer Eldritch returns from his 10 year vacation, he intends on overtaking this drug market with a new, more dangerous drug called Chew-Z. Chew-Z is so much like reality that you might not even realize you are within a hallucination. This scared me the most and reminded me a bit of the Matrix. 
 
@@ -29,6 +29,6 @@ Does Palmer Eldritch have good intentions or is he just a pawn of the Proxers (t
 
 I always like Philip K. Dick books because they really make you think. Humans made their own people so unhappy that they are willing to take or do anything just to gain some sort of happiness in their lives. Chew-Z and Can-D provide alternate realities for the humans to escape to. Unfortunately, with Chew-Z being much more potent, if ALL humans become addicted to this drug, it could spell disaster for the safety of the human universe.
 
-There are some other interesting futuristic things in this book like pre-cogs who can see the future and E therapy which is a therapy to speed up human evolution in a given person. 
+There are some other interesting futuristic things in this book like pre-cogs who can see the future and E therapy which is a therapy to speed up human evolution in a given person. But, to me, they all really take a backseat to the true story, the one about the drugs and reality.
 
 The ends a real doozy and I guess I should have expected it, but I had fallen into a false sense of comfort. That's what this book will do to ya: Make you freak out about reality, then lull you back in, then strike again at your fears.
