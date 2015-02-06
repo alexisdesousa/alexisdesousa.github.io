@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "The Three Stigmata of Palmer Eldritch by Philip K. Dick Review"
-date: 2015-02-05 10:24:00 
-published: false
-categories: book reviews
+date: 2015-02-06 09:41:00 
+published: true
+categories: book-reviews, philip-k-dick
 ---
 
 <table>
@@ -30,3 +30,5 @@ Does Palmer Eldritch have good intentions or is he just a pawn of the Proxers (t
 I always like Philip K. Dick books because they really make you think. Humans made their own people so unhappy that they are willing to take or do anything just to gain some sort of happiness in their lives. Chew-Z and Can-D provide alternate realities for the humans to escape to. Unfortunately, with Chew-Z being much more potent, if ALL humans become addicted to this drug, it could spell disaster for the safety of the human universe.
 
 There are some other interesting futuristic things in this book like pre-cogs who can see the future and E therapy which is a therapy to speed up human evolution in a given person. 
+
+The ends a real doozy and I guess I should have expected it, but I had fallen into a false sense of comfort. That's what this book will do to ya: Make you freak out about reality, then lull you back in, then strike again at your fears.
