@@ -2,7 +2,7 @@
 layout: post
 title:  "Fire Country by David Estes Review"
 date: 2015-02-03 20:00:00 
-categories: book-reviews, david-estes
+categories: [book-reviews, david-estes]
 ---
 
 <table>

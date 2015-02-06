@@ -2,7 +2,7 @@
 layout: post
 title:  "News"
 date: 2015-02-03 16:40:00 
-categories: news, goodreads, book-reviews
+categories: [news, goodreads, book-reviews]
 ---
 
 Well, I finally set up my own website again. Previously, I did some book reviews on my old blog over at <a href="https://koshermuffin.wordpress.com/" target="_blank">wordpress</a>. I haven't done any reviews since then, but I thought since I've been reading so much that I would start doing reviews again!
