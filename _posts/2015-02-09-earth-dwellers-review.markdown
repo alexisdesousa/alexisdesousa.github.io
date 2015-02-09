@@ -14,7 +14,11 @@ categories: [book-reviews, david-estes]
 
     <a href="http://amzn.com/B00EYWEMU4" target="_blank">The Earth Dwellers (The Dwellers Saga Book 4)</a> by David Estes
 
-	
+    Earth Dwellers is the final installment in both the Dweller's Saga and the Country Saga.
+
+    In Earth Dwellers, Tristan and Adele finally meet up with the characters from the previous Country Saga novels on the surface. Neither knew the other existed, but they still find reasons to work together to fight the big baddies, the Glassies, in an attempt for them all to live in a perfect world, the way they want to live. 
+
+    I have to say there was a lot of switching between perspectives in this one - Adele, Tristan, Siena, Dazz - it could make your head spin. 
 
   </td>
  </tr>
