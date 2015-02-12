@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "City of Truth by James Morrow Review"
-date: 2015-02-12 17:00:00
-published: false
+date: 2015-02-12 07:20:00
+published: true
 categories: [book-reviews, james-morrow]
 ---
 
@@ -10,18 +10,18 @@ categories: [book-reviews, james-morrow]
  <tr>
   <td><a href="http://amzn.com/B00E9501D8" target="_blank"><img src="http://ecx.images-amazon.com/images/I/813uRkQjdwL._SL1500_.jpg" style="height:150px; width:100px;"/></a></td>
   <td style="vertical-align:center; padding-left:25px;">
-    <b>3 out of 5 stars</b><br/><br/>
+    <b>4 out of 5 stars</b><br/><br/>
 
     <a href="http://amzn.com/B00E9501D8" target="_blank">City of Truth</a> by James Morrow
 
-    <br/><br/>Earth Dwellers is the final installment in both the Dweller's Saga and the Country Saga.
+    <br/><br/>City of Truth is a short novella (Nebula Award Winner 1992) about a city where all its citizens are "brain-burned" into telling only the truth. The citizens are always frank and honest to each other, even when it comes to things such as sexual matters, illness, marriage, etc.
 
   </td>
  </tr>
 </table>
 
-<br/><br/>In Earth Dwellers, Tristan and Adele finally meet up with the characters from the previous Country Saga novels on the surface. Neither knew the other existed, but they still find reasons to work together to fight the big baddies, the Glassies, in an attempt for them all to live in a perfect world, the way they want to live. 
+<br/><br/>City of Truth centers on Jack Sperry and his fight against the truth when his son is taken fatally ill. Jack wants to lie to his son in order to try and cure him with a miracle. In order to do so, he must become a part of society that rebels and learns to lie.
 
-I have to say there was a lot of switching between perspectives in this one - Adele, Tristan, Siena, Dazz - it could make your head spin. Especially with some of the characters being a bit of the same, except maybe Siena and Dazz with their different ways of speaking/thinking. 
+The book was a quick read for me, but I really did enjoy it. I wish that I had seen more of Jack's son, Toby, in the story, so that I was more emotionally connected to him and his journey. The themes in this book are powerful...sometimes the truth is hard, but in the end, it might just bring you the peace you're looking for. 
 
-Regardless, I think the book ended the series well. I liked seeing inside the New City and wish there had been a little more time dedicated to that aspect of the story. All in all, I'd recommend reading it because it was definitely a nice and interesting ride.
+It pained me to hear about all of the works of art that Jack had to destroy as part of his job! Ouch. Even fiction novels, art that was impressionist, etc. couldn't survive their City of Truth.
