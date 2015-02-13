@@ -8,7 +8,7 @@ categories: [book-reviews, james-morrow]
 
 <table>
  <tr>
-  <td style="width:10%"><a href="http://amzn.com/B00E9501D8" target="_blank"><img src="http://ecx.images-amazon.com/images/I/813uRkQjdwL._SL1500_.jpg" style="height:150px; width:100px;"/></a></td>
+  <td><a href="http://amzn.com/B00E9501D8" target="_blank"><img src="http://ecx.images-amazon.com/images/I/813uRkQjdwL._SL1500_.jpg" style="height:150px; width:100px;"/></a></td>
   <td style="vertical-align:center; padding-left:25px;">
     <b>4 out of 5 stars</b><br/><br/>
 
