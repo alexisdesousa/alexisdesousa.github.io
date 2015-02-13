@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "City of Truth by James Morrow Review"
-date: 2015-02-12 07:20:00
-published: true
-categories: [book-reviews, james-morrow]
+title:  "Miramont's Ghost by Elizabeth Hall Review"
+date: 2015-02-13 07:20:00
+published: false
+categories: [book-reviews, elizabeth-hall]
 ---
 
 <table>
  <tr>
-  <td style="width:10%"><a href="http://amzn.com/B00E9501D8" target="_blank"><img src="http://ecx.images-amazon.com/images/I/813uRkQjdwL._SL1500_.jpg" style="height:150px; width:100px;"/></a></td>
+<td style="width:10%"><a href="http://amzn.com/B00LTBWMJ6" target="_blank"><img src="http://ecx.images-amazon.com/images/I/91vZszGBHPL._SL1500_.jpg" style="height:150px; width:100px;"/></a></td>
   <td style="vertical-align:center; padding-left:25px;">
     <b>4 out of 5 stars</b><br/><br/>
 
-    <a href="http://amzn.com/B00E9501D8" target="_blank">City of Truth</a> by James Morrow
+    <a href="http://amzn.com/B00LTBWMJ6" target="_blank">Miramont's Ghost</a> by Elizabeth Hall
 
     <br/><br/>City of Truth is a short novella (Nebula Award Winner 1992) about a city where all its citizens are "brain-burned" into telling only the truth. The citizens are always frank and honest to each other, even when it comes to things such as sexual matters, illness, marriage, etc.
 
