@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Miramont's Ghost by Elizabeth Hall Review"
-date: 2015-02-13 07:20:00
-published: false
+date: 2015-02-14 17:50:00
+published: true
 categories: [book-reviews, elizabeth-hall]
 ---
 
@@ -10,7 +10,7 @@ categories: [book-reviews, elizabeth-hall]
  <tr>
 <td><a href="http://amzn.com/B00LTBWMJ6" target="_blank"><img src="http://ecx.images-amazon.com/images/I/91vZszGBHPL._SL1500_.jpg" style="height:150px; width:100px;"/></a></td>
   <td style="vertical-align:center; padding-left:25px;">
-    <b>4 out of 5 stars</b><br/><br/>
+    <b>3 out of 5 stars</b><br/><br/>
 
     <a href="http://amzn.com/B00LTBWMJ6" target="_blank">Miramont's Ghost</a> by Elizabeth Hall
 
@@ -23,3 +23,5 @@ categories: [book-reviews, elizabeth-hall]
 <br/>Adrienne is a very likeable character, especially as a child. I really enjoyed her whimsical behaviors. At the time, she thinks that her visions are mere fairy tales and she takes them on without so much as a second thought. Unfortunately, most of Adrienne's visions are terrible ones; couldn't this girl have <i>one</i> good thing happen to her? 
 
 Adrienne tries to hide her visions from her family, but her Aunt Marie finds out. Adrienne inherited the sight from her grandmother (Marie's mother) and Marie is hell bent on having Adrienne keep her mouth shut. I liked Marie as an adversary, but I also would have liked to see her stand up to her Aunt more.
+
+There was really very little about the ghostly aspects and the ending was a bit of a downer for me, otherwise I would have given more stars!
