@@ -22,8 +22,6 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p style="text-align:center;" class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
   <!-- Pagination links -->
 {% if paginator.total_pages > 1 %}
 <div class="pagination" style="text-align:center;">
@@ -40,4 +38,6 @@ layout: default
   {% endif %}
 </div>
 {% endif %}
+
+<p style="text-align:center;" class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>
