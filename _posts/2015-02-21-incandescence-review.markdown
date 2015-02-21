@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Incandescence by Greg Egan Review"
-date: 2015-02-19 07:00:00
-published: false
+date: 2015-02-21 07:00:00
+published: true
 categories: [book-reviews, greg-egan]
 book-title: Incandescence
 book-author: Greg Egan
@@ -14,7 +14,7 @@ short-link: B0070YQOHW
  <tr>
 <td><a href="http://amzn.com/{{ page.short-link }}" target="_blank"><img src="{{ page.book-image }}" style="height:150px; width:100px;"/></a></td>
   <td style="vertical-align:center; padding-left:25px;">
-    <b>3 out of 5 stars</b><br/><br/>
+    <b>1 out of 5 stars</b><br/><br/>
 
 <a href="http://amzn.com/{{ page.short-link }}" target="_blank"> {{ page.book-title }}</a> by {{ page.book-author }}
 
@@ -27,3 +27,5 @@ short-link: B0070YQOHW
 <br/>At first, I wasn't sure what to make of Roi's part of the story, but I realized her purpose quickly. Despite the tone of Roi's chapters (which are more about learning and discovering the physics of her world and how things work), I really found her quest for knowledge enjoyable to read. Roi and Zak work together in a harmonious way that is really a pleasure to read. 
 
 I always found Rakesh's chapters to be a little more exciting, maybe because he was setting out on a different type of adventure, rather than one that was completely dedicated to knowledge. He was looking for information, however, he was also traveling and meeting new people. I found the technology of the Amalgam to be interesting, especially the ability for the species to co-exist in virtual forms when stopped at certain locations. 
+
+However, about halfway through I realized I was really bored and trudging through this one so I had to put it down. I was skimming through all of Roi's stuff because all it reminded me of was sitting in a physics classroom; there was no character development, nothing interesting to make me care about her or Zak. And, then Rakesh's storyline was just about as slow moving. I wanted to finish, but for such a short book it was taking me way too long to do it.
