@@ -24,7 +24,7 @@ short-link: B0070YQOHW
  </tr>
 </table>
 
-<br/>At first, I wasn't sure what to make of Roi's part of the story, but I realized her purpose quickly. Despite the tone of Roi's chapters (which are more about learning and discovering the physics of her world and how things work), I really found her quest for knowledge enjoyable to read. Roi and Zak work together in a harmonious way that is really a pleasure to read. 
+<br/>At first, I wasn't sure what to make of Roi's part of the story, but I realized her purpose quickly. Despite the tone of Roi's chapters (which are more about learning and discovering the physics of her world and how things work), I really found her quest for knowledge enjoyable to read. Roi and Zak work together in a harmonious way that is really a pleasure to read, at first. 
 
 I always found Rakesh's chapters to be a little more exciting, maybe because he was setting out on a different type of adventure, rather than one that was completely dedicated to knowledge. He was looking for information, however, he was also traveling and meeting new people. I found the technology of the Amalgam to be interesting, especially the ability for the species to co-exist in virtual forms when stopped at certain locations. 
 
