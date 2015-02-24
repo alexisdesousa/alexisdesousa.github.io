@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Gods of War by Graham Brown and Spencer Andrews Review"
-date: 2015-02-17 07:00:00
+date: 2015-02-17 07:00:00 -0500
 published: true
 categories: [book-reviews, graham-brown-and-spencer-andrews]
 book-title: The Gods of War

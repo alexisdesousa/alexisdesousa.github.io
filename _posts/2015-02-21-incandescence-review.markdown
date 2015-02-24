@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Incandescence by Greg Egan Review"
-date: 2015-02-21 07:00:00
+date: 2015-02-21 07:00:00 -0500
 published: true
 categories: [book-reviews, greg-egan]
 book-title: Incandescence

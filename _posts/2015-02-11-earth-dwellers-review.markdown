@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "The Earth Dwellers by David Estes Review"
-date: 2015-02-11 14:00:00
+date: 2015-02-11 14:00:00 -0500
 published: true
 categories: [book-reviews, david-estes]
+book-title: The Earth Dwellers
+book-author: David Estes
 ---
 
 <table>

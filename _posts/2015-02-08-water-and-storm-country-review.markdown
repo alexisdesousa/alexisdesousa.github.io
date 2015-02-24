@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Water & Storm Country by David Estes Review"
-date: 2015-02-08 11:00:00
+date: 2015-02-08 11:00:00 -500
 published: true
 categories: [book-reviews, david-estes]
+book-title: Water & Storm Country
+book-author: David Estes
 ---
 
 <table>

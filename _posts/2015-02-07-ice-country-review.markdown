@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Ice Country by David Estes Review"
-date: 2015-02-07 08:00:00
+date: 2015-02-07 08:00:00 -0500
 published: true
 categories: [book-reviews, david-estes]
+book-title: Ice Country
+book-author: David Estes
 ---
 
 <table>

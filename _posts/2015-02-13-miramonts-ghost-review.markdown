@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Miramont's Ghost by Elizabeth Hall Review"
-date: 2015-02-14 17:50:00
+date: 2015-02-14 17:50:00 -0500
 published: true
 categories: [book-reviews, elizabeth-hall]
+book-title: Miramont's Ghost
+book-author: Elizabeth Hall
 ---
 
 <table>
