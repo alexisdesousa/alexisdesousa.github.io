@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Three Stigmata of Palmer Eldritch by Philip K. Dick Review"
-date: 2015-02-06 09:41:00 -0500
+date: 2015-02-06 09:41:00
 published: true
 categories: [book-reviews, philip-k-dick]
 book-title: The Three Stigmata of Palmer Eldritch

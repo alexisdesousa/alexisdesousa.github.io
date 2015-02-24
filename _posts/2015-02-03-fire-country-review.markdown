@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fire Country by David Estes Review"
-date: 2015-02-03 20:00:00 -0500
+date: 2015-02-03 20:00:00
 categories: [book-reviews, david-estes]
 book-title: Fire Country
 book-author: David Estes

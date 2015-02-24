@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Speed of Dark by Elizabeth Moon Review"
-date: 2015-02-26 10:00:00 -0500
+date: 2015-02-26 10:00:00
 published: false
 categories: [book-reviews, elizabeth-moon]
 book-title: The Speed of Dark

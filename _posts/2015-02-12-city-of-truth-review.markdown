@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "City of Truth by James Morrow Review"
-date: 2015-02-12 07:20:00 -0500
+date: 2015-02-12 07:20:00
 published: true
 categories: [book-reviews, james-morrow]
 book-title: City of Truth
