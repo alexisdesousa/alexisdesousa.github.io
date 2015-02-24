@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Dispossessed by Ursula K. Le Guin Review"
-date: 2015-02-23 10:00:00 -0500
+date: 2015-02-23 10:00:00
 published: true
 categories: [book-reviews, ursula-k-le-guin]
 book-title: The Dispossessed
