@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://alexis.desousa.cc" # the base hostname & protocol for your site
 twitter_username: alexisleno
 github_username:  alexisdesousa
-facebook_username: alexis.b.desousa
+facebook_username: author.alexis.desousa
 banner: "/images/web_banner.png"
 paginate: 5
 excerpt_separator: <!--more-->
