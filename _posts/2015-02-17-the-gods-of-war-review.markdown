@@ -10,21 +10,13 @@ book-image:  http://ecx.images-amazon.com/images/I/717mGDGy6QL._SL1500_.jpg
 short-link: B00M4S2WIY
 ---
 
-<table>
- <tr>
-<td><a href="http://amzn.com/{{ page.short-link }}" target="_blank"><img src="{{ page.book-image }}" style="height:150px; width:100px;"/></a></td>
-  <td style="vertical-align:center; padding-left:25px;">
-    <b>3 out of 5 stars</b><br/><br/>
+<img src="{{ page.book-image }}"  align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
+<a href="http://amzn.com/{{ page.short-link }}" target="_blank"> {{ page.book-title }}</a> by {{ page.book-author }} -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
 
-<a href="http://amzn.com/{{ page.short-link }}" target="_blank"> {{ page.book-title }}</a> by {{ page.book-author }}
+{{ page.book-title }} is set in the year 2137. The earth is dying and Mars is being used as both a tool for growing food for Earth and for colonization. People who won't be missed on Earth are being kidnapped and sent to Mars to be used as slaves. The people of Earth need an alternate food source and will do anything necessary to obtain one.
+<!--more-->
 
-<br/><br/> {{ page.book-title }} is set in the year 2137. The earth is dying and Mars is being used as both a tool for growing food for Earth and for colonization. 
-
-  </td>
- </tr>
-</table>
-
-<br/>This book was a fast-paced action book. I really liked the main character, James Collins, son of the President and career military man. He was the right kind of hero that you'd expect in this type of action book. He questioned his father's policies, and didn't necessarily agree with them, but in the end, he steps up to do what his father was trying to do, which was protect the people.
+This book was a fast-paced action book. I really liked the main character, James Collins, son of the President and career military man. He was the right kind of hero that you'd expect in this type of action book. He questioned his father's policies, and didn't necessarily agree with them, but in the end, he steps up to do what his father was trying to do, which was protect the people.
 
 James has to fight against a cartel of money hungry grubby men, well, not them personally, but their mercenaries and goons. They try to kill James, and when they do not succeed, he is accidentally sent as a slave to Mars. They think he's dead, but find out later that they were wrong, when James rallies the slaves and saves the day.
 

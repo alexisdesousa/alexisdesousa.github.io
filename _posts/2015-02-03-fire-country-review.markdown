@@ -7,22 +7,11 @@ book-title: Fire Country
 book-author: David Estes
 ---
 
-<table>
- <tr>
-  <td><a href="http://amzn.com/B00B7VTXFO" target="_blank"><img src="http://ecx.images-amazon.com/images/I/91U%2BTGgS60L._SL1500_.jpg" style="height:150px; width:100px;"/></a></td>
-  <td style="vertical-align:center; padding-left:25px;">
-    <b>4 out of 5 stars</b><br/><br/>
+<img src="http://ecx.images-amazon.com/images/I/91U%2BTGgS60L._SL1500_.jpg" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
+<a href="http://amzn.com/B00B7VTXFO" target="_blank">Fire Country (The Country Saga Book 1)</a> by David Estes  -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i>
 
-    <a href="http://amzn.com/B00B7VTXFO" target="_blank">Fire Country (The Country Saga Book 1)</a> by David Estes
-
-	
-
-  </td>
- </tr>
-</table>
-
-<br/><br/>
 Fire Country is the first book in the Country Saga. This series is a companion to the Moon Dwellers Saga, the first three books which I have already read. The author recommends reading the Moon Dwellers Saga's first three novels first, then the Country Saga and finally finishing with the last Earth Dwellers novel.
+<!--more-->
 
 Fire Country follows Siena, a young girl in a harsh apocalyptic world. As a woman in her world, she must become a breeder when she turns 16. She must bear 3 children to a man whom she cannot choose. We follow Siena as she tries to come to grips with her duty and with the feelings she has against becoming a breeder.
 

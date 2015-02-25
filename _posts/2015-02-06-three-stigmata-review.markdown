@@ -8,20 +8,11 @@ book-title: The Three Stigmata of Palmer Eldritch
 book-author: Philip K. Dick
 ---
 
-<table>
- <tr>
-  <td><a href="http://amzn.com/B005LVR6C8" target="_blank"><img src="http://ecx.images-amazon.com/images/I/71aqL7sMbGL._SL1500_.jpg" style="height:150px; width:100px;"/></a></td>
-  <td style="vertical-align:center; padding-left:25px;">    
-    <b>5 out of 5 stars</b><br/><br/>
-
-    <a href="http://amzn.com/B005LVR6C8" target="_blank">The Three Stigmata of Palmer Eldritch</a> by Philip K. Dick
-  </td>
- </tr>
-</table>
-
-<br/><br/>
+<img src="http://ecx.images-amazon.com/images/I/71aqL7sMbGL._SL1500_.jpg" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
+<a href="http://amzn.com/B005LVR6C8" target="_blank">The Three Stigmata of Palmer Eldritch</a> by Philip K. Dick  -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
 
 The Three Stigmata of Palmer Eldritch is set in the future (2016...or alternate reality??) and humans have already colonized some moons in the universe. Palmer Eldritch disappears for 10 years to another solar system with similar humanoid aliens and returns bent on changing (or controlling?) the humans of our star system.
+<!--more-->
 
 In this reality, humans are drafted to populate other planets, Mars for example, without much choice. Those who have been forced off planet are all homesick for Terra and take part in a dangerously addictive hallucinogenic drug called Can-D. In it, they can simulate an experience on Earth, similar to LARPing. 
 
