@@ -4,11 +4,11 @@ title: Current Writing
 permalink: /writing/
 ---
 
-<h1><u>Current Work</u></h1>
+<center><h1><u>Current Work</u></h1></center>
 
 Currently, I am working on finishing <a href="/chronicles_of_fate/">The Chronicles of Fate</a> trilogy.
 
-<h1><u>Previous Work</u></h1>
+<center><h1><u>Previous Work</u></h1></center>
 
 <img src="http://ecx.images-amazon.com/images/I/41t3m%2BIF5BL.jpg" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
 <div>
