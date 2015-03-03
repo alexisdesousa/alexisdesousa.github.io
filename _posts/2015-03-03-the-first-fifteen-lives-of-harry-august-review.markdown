@@ -2,7 +2,7 @@
 layout: post
 title:  "The First Fifteen Lives of Harry August by Claire North Review"
 date: 2015-03-03 18:00:00
-published: false
+published: true
 categories: [book-reviews, claire-north]
 book-title: The First Fifteen Lives of Harry August
 book-author: Claire North
