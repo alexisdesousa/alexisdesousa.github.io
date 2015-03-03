@@ -18,6 +18,6 @@ The Chronicles of Fate is a fantasy trilogy.
 <div><b>Discovering Destiny (Book II)</b> -- <i>Coming Soon</i><br/>In the second novel of The Chronicles of Fate, Brynn must face her greatest adversary, bent on destroying the destiny secured by the Gods of their world. Brynn gets caught up in the entanglements of men and Gods and must rise to the occasion to save Lizon from being consumed by evil.
 </div>
 <br/>
-<img src="/images/fateshereafter" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
+<img src="/images/fateshereafter.jpg" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
 <div><b>Fate's Hereafter (Book III)</b> -- <i>In Progress</i><br/>The gripping finale of The Chronicles of Fate reaches a climax as Brynn, Cyrus, and her family must overcome Eldric and his men to save the people of Lizon.
 </div>
