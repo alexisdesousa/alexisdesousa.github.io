@@ -14,6 +14,9 @@ short-link: B007THA4FI
 <a href="http://amzn.com/{{ page.short-link }}" target="_blank"> {{ page.book-title }}</a> by {{ page.book-author }} -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
 
 In {{ page.book-title }}, a local councilman in a small town dies, which leads to the whole town going downhill when his council seat comes up for re-election. 
+
+
+
 <!--more-->
 
 Unfortunately, I wasn't over the moon about this book. I love J.K. Rowling. I love Harry Potter, but this was not a rock it out of the park best seller. The book had its moments and I found that I liked some of the characters, but most were petty and down right mean and it was hard to really find one character to sort of root for and get behind. I understand that all people have flaws and that, in a sense, made this book very realistic, however, these people had too many flaws! When you start wishing for characters to die, there has to be a problem somewhere.
