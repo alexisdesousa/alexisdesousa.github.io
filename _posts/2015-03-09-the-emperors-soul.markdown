@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Emperor's Soul by Brandon Sanderson Review"
-date: 2015-03-10 16:12:00
+date: 2015-03-09 16:12:00
 published: true
 categories: [book-reviews, brandon-sanderson]
 book-title: The Emperor's Soul
