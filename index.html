@@ -5,6 +5,16 @@ layout: default
 <div class="home">
 
   <h1 class="page-heading" style="text-align:center;">Blog Updates and Writing News</h1>
+  <!--<select id="author-dropdown">
+  {% for post in site.posts %}
+  {% if post.book-author %}
+    <option> {{ post.book-author }} </option>
+  
+  {% endif %}
+  
+  {% endfor %}
+  
+  </select>-->
 
   <ul class="post-list">
     {% for post in paginator.posts %}
