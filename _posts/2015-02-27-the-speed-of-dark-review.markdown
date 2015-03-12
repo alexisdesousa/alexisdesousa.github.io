@@ -11,7 +11,7 @@ short-link: B000FC1B2Y
 ---
 
 <img src="{{ page.book-image }}" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
-<a href="http://amzn.com/{{ page.short-link }}" target="_blank"> {{ page.book-title }}</a> by {{ page.book-author }} -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i>
+<a href="http://amzn.com/{{ page.short-link }}" target="_blank"> {{ page.book-title }}</a> by {{ page.book-author }} -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i> -- <i class="fa fa-rocket"></i> sci-fi
 
 {{ page.book-title }} is a novel set in the near future, where most diseases and genetic easily fixed at birth. A few members of society, who were too old to receive the treatments, live life outside the realm of normalcy. Some of these people have autism, but are high functioning and capable members of society. When new research emerges that can make those with autism "normal", Lou must decide if he wants to try the new therapy.
 <!--more-->

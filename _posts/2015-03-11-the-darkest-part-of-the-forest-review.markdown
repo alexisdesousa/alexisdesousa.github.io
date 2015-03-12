@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Darkest Part of the Forest by Holly Black Review"
-date: 2015-03-11 07:52:00
+date: 2015-03-11 12:00:00
 published: true
 categories: [book-reviews, holly-black]
 book-title: The Darkest Part of the Forest
@@ -11,7 +11,7 @@ short-link: B00K5UNWV4
 ---
 
 <img src="{{ page.book-image }}" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
-<a href="http://amzn.com/{{ page.short-link }}" target="_blank"> {{ page.book-title }}</a> by {{ page.book-author }} -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i>
+<a href="http://amzn.com/{{ page.short-link }}" target="_blank"> {{ page.book-title }}</a> by {{ page.book-author }} -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i> -- <i class="fa fa-magic"></i> fantasy
 
 In the town of Fairfold fae and human live together. Hazel and her brother Ben have lived in the strange town all their lives. As children, they played in the forest and saw strange things. Eventually, they decided to become a bard and a knight, fighting in the forest to save out of towners from being over taken by the magical beings residing there. Now, as a teenager, Hazel has long given up her knightly ways, but when something happens to threaten her town, she must be prepared to save it.
 <!--more-->

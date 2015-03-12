@@ -9,7 +9,7 @@ book-author: Philip K. Dick
 ---
 
 <img src="http://ecx.images-amazon.com/images/I/71aqL7sMbGL._SL1500_.jpg" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
-<a href="http://amzn.com/B005LVR6C8" target="_blank">The Three Stigmata of Palmer Eldritch</a> by Philip K. Dick  -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
+<a href="http://amzn.com/B005LVR6C8" target="_blank">The Three Stigmata of Palmer Eldritch</a> by Philip K. Dick  -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> -- <i class="fa fa-rocket"></i> sci-fi
 
 The Three Stigmata of Palmer Eldritch is set in the future (2016...or alternate reality??) and humans have already colonized some moons in the universe. Palmer Eldritch disappears for 10 years to another solar system with similar humanoid aliens and returns bent on changing (or controlling?) the humans of our star system.
 <!--more-->

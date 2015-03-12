@@ -11,7 +11,7 @@ short-link: B0070YQOHW
 ---
 
 <img src="{{ page.book-image }}" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" >
-<a href="http://amzn.com/{{ page.short-link }}" target="_blank"> {{ page.book-title }}</a> by {{ page.book-author }} -- <i class="fa fa-star"><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
+<a href="http://amzn.com/{{ page.short-link }}" target="_blank"> {{ page.book-title }}</a> by {{ page.book-author }} -- <i class="fa fa-star"><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i> -- <i class="fa fa-rocket"></i> sci-fi
 
 {{ page.book-author }}'s {{ page.book-title }} is a hard sci-fi novel about a large expanse of space called the Amalgam, filled with many different sentient species, and the center of it (the bulge) which is occupied by a group called the Aloof. The Aloof allow traveling through their territory, but don't really associate themselves with the rest of the species in the world. The story follows both Rakesh (a traveler set on confronting the Aloof about some information from a human DNA related new world) and Roi, an alien species beginning to question the physics of their world and embark on the mysteries of the universe. 
 <!--more-->

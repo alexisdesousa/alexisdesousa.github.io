@@ -11,7 +11,7 @@ short-link: B007THA4FI
 ---
 
 <img src="{{ page.book-image }}" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
-<a href="http://amzn.com/{{ page.short-link }}" target="_blank"> {{ page.book-title }}</a> by {{ page.book-author }} -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
+<a href="http://amzn.com/{{ page.short-link }}" target="_blank"> {{ page.book-title }}</a> by {{ page.book-author }} -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i> -- <i class="fa fa-question-circle"></i> mystery
 
 In {{ page.book-title }}, a local councilman in a small town dies, which leads to the whole town going downhill when his council seat comes up for re-election. 
 <br/><br/><br/>

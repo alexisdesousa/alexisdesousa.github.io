@@ -9,7 +9,7 @@ book-author: David Estes
 ---
 
 <img src="http://ecx.images-amazon.com/images/I/81rCGRKCdjL._SL1500_.jpg" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
-<a href="http://amzn.com/B00EYWEMU4" target="_blank">The Earth Dwellers (The Dwellers Saga Book 4)</a> by David Estes  -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
+<a href="http://amzn.com/B00EYWEMU4" target="_blank">The Earth Dwellers (Dwellers Saga Book 4)</a> by David Estes  -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i> -- <i class="fa fa-rocket"></i> sci-fi
 
 Earth Dwellers is the final installment in both the Dweller's Saga and the Country Saga. In Earth Dwellers, Tristan and Adele finally meet up with the characters from the previous Country Saga novels on the surface. Neither knew the other existed, but they still find reasons to work together to fight the big baddies, the Glassies, in an attempt for them all to live in a perfect world, the way they want to live. 
 

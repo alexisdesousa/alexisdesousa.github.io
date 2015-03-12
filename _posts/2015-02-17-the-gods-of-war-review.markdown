@@ -11,7 +11,7 @@ short-link: B00M4S2WIY
 ---
 
 <img src="{{ page.book-image }}"  align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
-<a href="http://amzn.com/{{ page.short-link }}" target="_blank"> {{ page.book-title }}</a> by {{ page.book-author }} -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
+<a href="http://amzn.com/{{ page.short-link }}" target="_blank"> {{ page.book-title }}</a> by {{ page.book-author }} -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i> -- <i class="fa fa-rocket"></i> sci-fi
 
 {{ page.book-title }} is set in the year 2137. The earth is dying and Mars is being used as both a tool for growing food for Earth and for colonization. People who won't be missed on Earth are being kidnapped and sent to Mars to be used as slaves. The people of Earth need an alternate food source and will do anything necessary to obtain one.
 <!--more-->

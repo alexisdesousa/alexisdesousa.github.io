@@ -12,7 +12,7 @@ short-link: B000FC11GA
 
 
 <img src="{{ page.book-image }}" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
-<a href="http://amzn.com/{{ page.short-link }}" target="_blank"> {{ page.book-title }}</a> by {{ page.book-author }} -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
+<a href="http://amzn.com/{{ page.short-link }}" target="_blank"> {{ page.book-title }}</a> by {{ page.book-author }} -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> -- <i class="fa fa-rocket"></i> sci-fi
 
 {{ page.book-author }}'s {{ page.book-title }} revolves around a physicist named Shevek who is from a utopian moon that borders a hierarchical caste like system planet. On the moon, every one is looked at equally, whereas on the planet, there are servants, rich, intellectuals, etc. Shevek is intent on enacting change that would end the isolation of his own world and reconnect the two together again.
 <!--more-->

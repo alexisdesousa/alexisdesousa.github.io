@@ -23,7 +23,7 @@ layout: default
 
         <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
           {{ post.excerpt }}
-        <div style="text-align:right;"><a href="{{ post.url | prepend: site.baseurl }}">read more...</a></div>
+          <div style="text-align:right; font-family: 'Poiret One', cursive;"><a href="{{ post.url | prepend: site.baseurl }}"><i class="fa fa-book"></i> read more...</a></div>
       </li>
     {% endfor %}
   </ul>
@@ -45,5 +45,5 @@ layout: default
 </div>
 {% endif %}
 
-<p style="text-align:center;" class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<p style="text-align:center;" class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">subscribe via RSS <i class="fa fa-rss"></i></a></p>
 </div>

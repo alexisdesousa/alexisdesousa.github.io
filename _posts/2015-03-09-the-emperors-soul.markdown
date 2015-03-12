@@ -11,7 +11,7 @@ short-link: B00A1XOPE8
 ---
 
 <img src="{{ page.book-image }}" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
-<a href="http://amzn.com/{{ page.short-link }}" target="_blank"> {{ page.book-title }}</a> by {{ page.book-author }} -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i>
+<a href="http://amzn.com/{{ page.short-link }}" target="_blank"> {{ page.book-title }}</a> by {{ page.book-author }} -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i> -- <i class="fa fa-magic"></i> fantasy
 
 Shai is caught stealing in the imperial palace and is forced to help the empire to restore the current Emperor's soul after an attempt on his life has left him blank in the brain. Shai is a Forger and has forged and changed her own seals for her own soul. Can she do the same for the emperor?
 <!--more-->

@@ -8,7 +8,7 @@ book-author: David Estes
 ---
 
 <img src="http://ecx.images-amazon.com/images/I/91U%2BTGgS60L._SL1500_.jpg" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
-<a href="http://amzn.com/B00B7VTXFO" target="_blank">Fire Country (The Country Saga Book 1)</a> by David Estes  -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i>
+<a href="http://amzn.com/B00B7VTXFO" target="_blank">Fire Country (The Country Saga Book 1)</a> by David Estes  -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i> -- <i class="fa fa-rocket"></i> sci-fi
 
 Fire Country is the first book in the Country Saga. This series is a companion to the Moon Dwellers Saga, the first three books which I have already read. The author recommends reading the Moon Dwellers Saga's first three novels first, then the Country Saga and finally finishing with the last Earth Dwellers novel.
 <!--more-->

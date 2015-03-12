@@ -34,6 +34,7 @@
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
+        font-family: 'Poiret One', cursive;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
@@ -166,7 +167,8 @@
 }
 
 .page-heading {
-    font-size: 20px;
+    font-size: 36px;
+    font-family: 'Poiret One', cursive;
 }
 
 .post-list {
@@ -184,6 +186,7 @@
 }
 
 .post-link {
+    font-family: 'Poiret One', cursive;
     display: block;
     font-size: 24px;
 }
@@ -198,7 +201,8 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-family: 'Poiret One', cursive;
+    font-size: 36px;
     letter-spacing: -1px;
     line-height: 1;
 

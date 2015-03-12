@@ -9,7 +9,7 @@ book-author: James Morrow
 ---
 
 <img src="http://ecx.images-amazon.com/images/I/813uRkQjdwL._SL1500_.jpg" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
-<a href="http://amzn.com/B00E9501D8" target="_blank">City of Truth</a> by James Morrow -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i>
+<a href="http://amzn.com/B00E9501D8" target="_blank">City of Truth</a> by James Morrow -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i> -- <i class="fa fa-rocket"></i> sci-fi
 
 City of Truth is a short novella (Nebula Award Winner 1992) about a city where all its citizens are "brain-burned" into telling only the truth. The citizens are always frank and honest to each other, even when it comes to things such as sexual matters, illness, marriage, etc.
 <!--more-->

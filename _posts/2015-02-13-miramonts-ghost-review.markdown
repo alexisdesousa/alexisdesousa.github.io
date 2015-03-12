@@ -9,7 +9,7 @@ book-author: Elizabeth Hall
 ---
 
 <img src="http://ecx.images-amazon.com/images/I/91vZszGBHPL._SL1500_.jpg" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
-<a href="http://amzn.com/B00LTBWMJ6" target="_blank">Miramont's Ghost</a> by Elizabeth Hall -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
+<a href="http://amzn.com/B00LTBWMJ6" target="_blank">Miramont's Ghost</a> by Elizabeth Hall -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i> -- <i class="fa fa-question-circle"></i> mystery
 
 Miramont's Ghost is the tale of a young French woman named Adrienne, who lives in the late 1800's.  Adrienne has the gift of sight. Many people in her life are afraid of her, because of the things she can see. As a child, Adrienne is quick to tell anyone who will listen about her visions, but she soon realizes how dangerous her stories really are. 
 <!--more-->

@@ -9,7 +9,7 @@ book-author: David Estes
 ---
 
 <img src="http://ecx.images-amazon.com/images/I/91W6CHs8cOL._SL1500_.jpg" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
-<a href="http://amzn.com/B00C450JEQ" target="_blank">Ice Country (The Country Saga Book 2)</a> by David Estes  -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
+<a href="http://amzn.com/B00C450JEQ" target="_blank">Ice Country (The Country Saga Book 2)</a> by David Estes  -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i> -- <i class="fa fa-rocket"></i> sci-fi
 
 Ice Country is the second book in the Country Saga. Ice Country follows Dazz, a young boy who does what all young boys do - gets in trouble, dates girls, and gets in more trouble. Dazz lives in the part of the world covered in ice where it's always cold. His dad died of the earth dwellers illness, which sent his mom into ruin. His brother, Wes, does most of the caregiving and his sister is looked after by neighbors.
 <!--more-->

@@ -11,7 +11,7 @@ short-link: B004J4WLU0
 ---
 
 <img src="{{ page.book-image }}" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
-<a href="http://amzn.com/{{ page.short-link }}" target="_blank"> {{ page.book-title }}</a> by {{ page.book-author }} -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-o"></i><i class="fa fa-star-o"></i>
+<a href="http://amzn.com/{{ page.short-link }}" target="_blank"> {{ page.book-title }}</a> by {{ page.book-author }} -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-o"></i><i class="fa fa-star-o"></i> -- <i class="fa fa-rocket"></i> sci-fi
 
 Far into the future, humans have expanded out into space, colonizing distance planets. They walk among other sentient beings, many of whom humans can communicate with easily. It is on one of these planets that a small ghetto-like town, Embassytown, resides, where the aliens (Ariekei) speak a special type of language. Humans try and mimic their language by using twins who speak at the same time. Follow Avice as she finally learns what drives the politics of their relationship.
 <!--more-->
