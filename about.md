@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-<img src="/images/about/me.jpg" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />Alexis DeSousa is a programmer, writer and reader. She graduated from Arcadia University in 2009 with a BS in Computer Science and in 2011 received an MS in Software Engineering from Drexel University. 
+<img src="/images/about/me.jpg" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />Alexis DeSousa is a programmer, writer and reader. She graduated from Arcadia University in 2009 with a BS in Computer Science and in 2011 received an MS in Software Engineering from Drexel University. <img src="/images/about/us.jpg" align="right" style="width:100%; height:100%; max-width:100px; max-height:117px; padding-left:15px; padding-top:10px;" />
 
-<img src="/images/about/us.jpg" align="right" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />This site is dedicated to her musings, writings, and book reviews.
+This site is dedicated to her musings, writings, and book reviews.
 
 Alexis lives in the Philadelphia suburbs with her husband, Dan, and their entourage of goofy pets.
 <center><table>
