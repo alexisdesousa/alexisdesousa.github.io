@@ -20,4 +20,5 @@ The Chronicles of Fate is a fantasy trilogy.
 <br/>
 <img src="/images/fateshereafter.jpg" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
 <div><span style="color:#49316b; font-weight:bold;">Fate's Hereafter (Book III)</span> -- <i>In Progress</i><br/>The gripping finale of The Chronicles of Fate reaches a climax as Brynn, Cyrus, and her family must overcome Eldric and his men to save the people of Lizon.
-</div>
+</div><br/><br/>
+<center><a href="/"><i class="fa fa-home"></i> Go Home</a></center>

@@ -14,5 +14,5 @@ Currently, I am working on finishing <a href="/chronicles_of_fate/">The Chronicl
 <div>
 <a href="http://amzn.com/B004RYW6BG" target="_blank">Red Sand and Other Stories</a><br/>This book of short stories includes 4 various science fiction stories that are meant to tickle your senses. The four stories include Red Sand, Trial and Error, Specimen E3101, and In Space.
 <br/><br/>Download: <a href="http://amzn.com/B004RYW6BG" target="_blank">amazon</a> | <a href="https://www.smashwords.com/books/view/46884" target="_blank">smashwords</a> 
-        </div>
-    
+        </div><br/><br/>
+<center><a href="/"><i class="fa fa-home"></i> Go Home</a></center>
