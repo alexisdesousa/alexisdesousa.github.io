@@ -1,23 +1,21 @@
 ---
 layout: post
-title:  "California by Edan Lepucki Review"
+title:  "Double Star by Robert A. Heinlein Review"
 date: 2015-03-14 09:40:00
 published: false
-categories: [book-reviews, edan-lepucki]
-book-title: California
-book-author: Edan Lepucki
-book-image:  http://ecx.images-amazon.com/images/I/91XuMHLBEHL._SL1500_.jpg
-short-link: B00GG0GJ2Q
+categories: [book-reviews, robert-a-heinlein]
+book-title: Double Star
+book-author: Robert A. Heinlein
+book-image:  http://ecx.images-amazon.com/images/I/51ww1Kd8e2L.jpg
+short-link: B0050OVMWG
 ---
 
 <img src="{{ page.book-image }}" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
 <a href="http://amzn.com/{{ page.short-link }}" target="_blank"> {{ page.book-title }}</a> by {{ page.book-author }} -- <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>  -- <i class="fa fa-rocket"></i> sci-fi
 
-The world has gone to crap. Frida and Cal decide to leave LA to live in the wilderness and try to survive on their own. They find their little piece of the earth to settle. For two years, Frida and Cal live off the land, but eventually they want to find out if there are other people nearby and how they get along in this new world.
+Lorenzo Smythe is an actor who thinks his acting is a lot better than it actually is. He is approached by a famous space pilot and offered an acting job. The space pilot wants him to impersonate a celebrity on Mars. Lorenzo agrees, but was it really a mistake?
 <!--more-->
 
-Stephen Colbert recommended this book on his show, The Colbert Report, and I decided to read it because the premise intrigued me. I've been reading a lot of post-apocalyptic fiction lately, so I figured I would give this one a go. 
+I loved Lorenzo. He really was quite the character. He made me chuckle on numerous occasions. He acts tough, but he really is a coward deep down. He always wants to run at the first sign of trouble.
 
-The book was OK. For me, it wasn't a page turner. There were some things I didn't like about the storytelling itself. For example, Frida might be doing something (washing her clothes in the river) and reminiscing about the past for a few pages. Then, there's a break in her train of thought for one sentence back to the present and then it returns to her reminiscing. Things like that just break me out of the story and felt unnecessary. It made the storytelling a bit uneven.
-
-Also didn't really like the ending. Guess I needed more.
+This was a pretty quick read, but a light hearted one. 
