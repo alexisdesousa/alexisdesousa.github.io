@@ -8,7 +8,7 @@ permalink: /about/
 
 <img src="/images/about/us.jpg" align="right" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />This site is dedicated to her musings, writings, and book reviews.
 
-Alexis lives in the Philadelphia suburbs with her husband, Dan and their entourage of goofy pets.
+Alexis lives in the Philadelphia suburbs with her husband, Dan, and their entourage of goofy pets.
 <center><table>
     <tr style="font-size:small; text-align:center;">
     <td style="padding-right:25px;"><img src="/images/about/lib.jpg" align="right" style="width:100%; height:100%; max-width:50px; max-height:70px;" /><br/>Liberty</td>
