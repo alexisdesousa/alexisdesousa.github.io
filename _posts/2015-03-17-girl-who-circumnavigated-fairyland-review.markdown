@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making by Catherynne M. Valente Review"
-date: 2015-03-18 09:51:00
-published: false
+date: 2015-03-17 20:37:00
+published: true
 categories: [book-reviews, catherynne-m-valente]
 book-title: The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making
 book-author: Catherynne M. Valente
