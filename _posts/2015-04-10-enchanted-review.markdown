@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "The Girl Who Fell Beneath Fairyland and Led the Revels There by Catherynne M. Valente Review"
-date: 2015-04-08 16:21:00
-published: true
+title:  "The Enchanted by Catherynne M. Valente Review"
+date: 2015-04-10 16:21:00
+published: false
 categories: [book-reviews, catherynne-m-valente]
-book-title: The Girl Who Fell Beneath Fairyland and Led the Revels There
+book-title: The Enchanted
 book-author: Catherynne M. Valente
 book-image:  http://ecx.images-amazon.com/images/I/91OGS3tuSUL._SL1500_.jpg
 short-link: B008PBYYOY
