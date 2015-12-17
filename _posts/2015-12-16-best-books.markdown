@@ -22,12 +22,12 @@ Let me know in the comments of any of your favorite books you've read this year.
 Erin Morgenstern blends the charms of the circus with the dangers of magic so smoothly that she had me on the edge of my seat the entire time I was reading. This novel pits two magicians and their apprentices against each other in a game of life or death with the circus as their game board. Truly magical, I fell in love with the characters instantly!
 </div>
 
-<div style="width:100%; height: 150px; margin-bottom: 25px">
+<div style="width:100%; height: 100%; margin-bottom: 25px">
 <img src="http://ecx.images-amazon.com/images/I/51RYeVqlj9L._SX331_BO1,204,203,200_.jpg" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
 <b>A Darker Shade of Magic by Victoria Schwab</b><br/><br/>
 
 The first in a series, this book has magicians traveling through doors to other London's, some good and some horribly bad. The story is fresh and at the end, I definitely couldn't wait for more.
-
+<br/><br/>
 </div>
 
 <center><h1>Science Fiction <i class="fa fa-rocket"></i></h1></center>
