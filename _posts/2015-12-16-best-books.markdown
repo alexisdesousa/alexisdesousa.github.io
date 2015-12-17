@@ -39,7 +39,7 @@ The first in a series, this book has magicians traveling through doors to other 
 What if you could go back in time and prevent JFK from being assasinated? King takes that idea and runs with it. Jake Epping attempts to do the impossible and you won't believe the consequences of his actions. I love King and this was just another great story from a great master of writing.
 </div>
 
-<div style="width:100%; height: 150px; margin-bottom: 25px">
+<div style="width:100%; height: 100%; margin-bottom: 25px">
 <img src="http://ecx.images-amazon.com/images/I/51mEkJQNueL._SX331_BO1,204,203,200_.jpg" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
 <b>Red Rising by Pierce Brown</b><br/><br/>
 
@@ -57,7 +57,7 @@ I read both Red Rising and Golden Son this year and fell in love with Pierce Bro
 Michael Chabon really is a captivating writer. This and Kavalier and Clay are the only two books of his I've read so far, but I plan on reading his others as well. This book is a bit of alternate history, as if the Jews were never given Israel after WWII and, instead, settled in Alaska. There's some detective work and Jewish history in this one and I was really drawn to it. I enjoy alternate history books and this one really moves quickly despite its length.
 </div>
 
-<div style="width:100%; height: 150px; margin-bottom: 25px">
+<div style="width:100%; height: 100%; margin-bottom: 25px">
 <img src="http://ecx.images-amazon.com/images/I/51o-JQnLkiL._SX313_BO1,204,203,200_.jpg" align="left" style="width:100%; height:100%; max-width:100px; max-height:150px; padding-right:25px;" />
 <b>The Amazing Adventures of Kavalier and Clay by Michael Chabon</b><br/><br/>
 
